@@ -3,7 +3,7 @@
     "document_id": "d7t60Lj2oHLY98A3kzyJ",
     "original_document_id": "d7t60Lj2oHLY98A3kzyJ",
     "version": "23",
-    "lastChanged": "1586475834207",
+    "lastChanged": "1586476465158",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -41,10 +41,6 @@
                     [
                         "terminatorhead",
                         "Animations"
-                    ],
-                    [
-                        "terminatorhead",
-                        "Materials"
                     ],
                     [
                         "terminatorhead",
@@ -484,9 +480,7 @@
         },
         "SceneTreeUiComponent": {
             "collapsedList": [
-                [
-                    "1586474988043802:5229"
-                ]
+                ""
             ]
         },
         "MetaInfoUIComponent": {
@@ -3244,11 +3238,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1586474988043802:5229"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
