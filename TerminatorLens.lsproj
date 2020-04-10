@@ -3,7 +3,7 @@
     "document_id": "d7t60Lj2oHLY98A3kzyJ",
     "original_document_id": "d7t60Lj2oHLY98A3kzyJ",
     "version": "23",
-    "lastChanged": "1586479477301",
+    "lastChanged": "1586479889628",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -31,6 +31,12 @@
                 [
                     [
                         "Charcoal Metal"
+                    ],
+                    [
+                        "Credit Alpha"
+                    ],
+                    [
+                        "DUNDUN DUN DUNDUN"
                     ],
                     [
                         "Icon"
@@ -1306,6 +1312,22 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "100",
+                    "uid": "1586479688606765:127780",
+                    "name": "Files\/File111.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "101",
+                    "uid": "1586479787359837:137112",
+                    "name": "Files\/File112.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -1322,7 +1344,22 @@
                     "uidsToFeatureNamesWithIntensity": ""
                 },
                 "ScreenTransform": {
-                    "uidData": "",
+                    "uidData": [
+                        {
+                            "k": "1586479807014799:140123",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
                     "generalData": ""
                 }
             }
@@ -1387,12 +1424,16 @@
                 "55": "1586474996709245:10693",
                 "56": "1586474996709423:10694",
                 "57": "1586474996712655:10714",
-                "58": "1586478315062515:92467"
+                "58": "1586478315062515:92467",
+                "59": "1586479695019464:128715",
+                "60": "1586479806960620:139922",
+                "61": "1586479806979415:139987",
+                "62": "1586479807014640:140122"
             }
         },
         "LayerComponent": {
             "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "0",
@@ -1849,6 +1890,14 @@
                 {
                     "k": "110",
                     "v": "Files\/File110.png"
+                },
+                {
+                    "k": "111",
+                    "v": "Files\/File111.mp3"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.js"
                 }
             ]
         },
@@ -1944,6 +1993,14 @@
                     {
                         "k": "25",
                         "v": "Icon.png"
+                    },
+                    {
+                        "k": "26",
+                        "v": "DUNDUN DUN DUNDUN.mp3"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Credit Alpha.js"
                     }
                 ],
                 "hashes": [
@@ -2013,29 +2070,37 @@
                     },
                     {
                         "k": "23",
-                        "v": "5a4c8d02523d8c9b88b56e6cbe4ad368"
+                        "v": "05499ad43792798a8ed7026d3a8e9f5a"
                     },
                     {
                         "k": "24",
-                        "v": "d8b44cc82bc17f756c4c03f7e1dda6ce"
+                        "v": "3db70bf283a97fc34a935f47be1d13e1"
                     },
                     {
                         "k": "25",
                         "v": "fb0ba6c2a5a9a15f861cf80a7f3e95cc"
+                    },
+                    {
+                        "k": "26",
+                        "v": "7ec8531b3e76517f1c3c00aea21b5f55"
+                    },
+                    {
+                        "k": "27",
+                        "v": "db50ced2ab3f6080ee3a2da797902079"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-09T20:44:33",
+                        "lastModified": "2020-04-09T20:51:03",
                         "name": "Public",
-                        "hash": "4f8a78cd1f8cdd0bbf8328bec24d88a9",
+                        "hash": "a4ac452e1ced620e6c77617eb65f981f",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-09T20:44:19",
+                                "lastModified": "2020-04-09T20:51:03",
                                 "name": "Metal.lsmat",
-                                "hash": "ee8ce6fe41f983bc270c73c52546ad2d",
+                                "hash": "e8c8b5ad76a816c039d32a11a27daf31",
                                 "children": ""
                             },
                             {
@@ -2083,6 +2148,13 @@
                             },
                             {
                                 "isFolder": "false",
+                                "lastModified": "2020-04-09T20:41:05",
+                                "name": "DUNDUN DUN DUNDUN.mp3",
+                                "hash": "7ec8531b3e76517f1c3c00aea21b5f55",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
                                 "lastModified": "2019-12-13T20:21:52",
                                 "name": "echopark_spec.png",
                                 "hash": "8e599835d0d45c5879eafb1f474469cd",
@@ -2090,9 +2162,16 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-09T20:44:19",
+                                "lastModified": "2020-04-09T20:51:03",
                                 "name": "Charcoal Metal.lsmat",
-                                "hash": "d9f85491c857ff40c5a46afd08f59016",
+                                "hash": "f8c0a38270cd47e2cf69620aa8ca332c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-09T20:50:01",
+                                "name": "Credit Alpha.js",
+                                "hash": "db50ced2ab3f6080ee3a2da797902079",
                                 "children": ""
                             },
                             {
@@ -3466,19 +3545,40 @@
                         "publicId": "25",
                         "source": "\/Users\/ejwessel\/Desktop\/Screen Shot 2020-04-09 at 8.42.19 PM.png",
                         "additional": ""
+                    },
+                    {
+                        "name": "DUNDUN DUN DUNDUN",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "100",
+                        "dependency": "0",
+                        "uid": "1586479688606765:127780",
+                        "fileId": "111",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26",
+                        "source": "\/Users\/ejwessel\/Downloads\/Terminator _DUNDUN DUN DUNDUN_ for 10 Minutes 29s - 32.5s (NXm3E-ODBa0) 961 (online-audio-converter.com).mp3",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Credit Alpha",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "101",
+                        "dependency": "0",
+                        "uid": "1586479787359837:137112",
+                        "fileId": "112",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27",
+                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-QmSvCV\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "1586479375640665:115853",
-                        "path_list": [
-                            "Screen Shot 2020-04-09 at 8"
-                        ]
-                    }
+                "objects": [
+                    "1586479807014640:140122"
                 ]
             }
         },
