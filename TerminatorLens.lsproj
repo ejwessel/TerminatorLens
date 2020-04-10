@@ -3,7 +3,7 @@
     "document_id": "d7t60Lj2oHLY98A3kzyJ",
     "original_document_id": "d7t60Lj2oHLY98A3kzyJ",
     "version": "23",
-    "lastChanged": "1586481507412",
+    "lastChanged": "1586481554280",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -2092,11 +2092,11 @@
                     },
                     {
                         "k": "23",
-                        "v": "6365f4310d1dba1238859abdb7fdfd14"
+                        "v": "31cb1a6864f58e09980637bbcd00b06d"
                     },
                     {
                         "k": "24",
-                        "v": "138d7215696e06a59dd937956da053e6"
+                        "v": "eeb414e12671ddf6b10ef04699896878"
                     },
                     {
                         "k": "25",
@@ -2126,15 +2126,15 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-09T21:15:31",
+                        "lastModified": "2020-04-09T21:18:25",
                         "name": "Public",
-                        "hash": "79ed09f0987556d178ca94bada1e997c",
+                        "hash": "2c505c64f82ad023869283677648fa90",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-09T21:15:31",
+                                "lastModified": "2020-04-09T21:18:25",
                                 "name": "Metal.lsmat",
-                                "hash": "d3b627406cae7d66a32571b4a1fdd34d",
+                                "hash": "6365f4310d1dba1238859abdb7fdfd14",
                                 "children": ""
                             },
                             {
@@ -2196,9 +2196,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-09T21:15:31",
+                                "lastModified": "2020-04-09T21:18:25",
                                 "name": "Charcoal Metal.lsmat",
-                                "hash": "1f44e0d9aec6d0e006ba25ed37dbb90a",
+                                "hash": "138d7215696e06a59dd937956da053e6",
                                 "children": ""
                             },
                             {
@@ -3632,7 +3632,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1586479806960620:139922"
+                    "1586479807014640:140122"
                 ]
             }
         },
