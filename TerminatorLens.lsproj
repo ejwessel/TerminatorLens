@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "9626b3ea-2f04-4025-a997-67d0854968bb",
     "document_id": "d7t60Lj2oHLY98A3kzyJ",
     "original_document_id": "d7t60Lj2oHLY98A3kzyJ",
     "version": "23",
-    "lastChanged": "1586481057584",
+    "lastChanged": "1586481507412",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -515,7 +515,7 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "d95d6194e62a4847cf13353fab971c88",
+            "icon_hash": "3d278f56cceb380e611962470f247f70",
             "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
             "hints": [
@@ -2092,11 +2092,11 @@
                     },
                     {
                         "k": "23",
-                        "v": "496e3b47b7995f5c7d03683f763c04db"
+                        "v": "6365f4310d1dba1238859abdb7fdfd14"
                     },
                     {
                         "k": "24",
-                        "v": "09208402ddf0546835cd0ab6a5d52596"
+                        "v": "138d7215696e06a59dd937956da053e6"
                     },
                     {
                         "k": "25",
@@ -2120,21 +2120,21 @@
                     },
                     {
                         "k": "30",
-                        "v": "bc2a2a3ef942882804e557afa757afd1"
+                        "v": "54d2565dcf49b44effb852f7095ccf6a"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-09T21:10:54",
+                        "lastModified": "2020-04-09T21:15:31",
                         "name": "Public",
-                        "hash": "bb457228f44f6e96fc9a5a14a54f13f3",
+                        "hash": "79ed09f0987556d178ca94bada1e997c",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-09T21:10:13",
+                                "lastModified": "2020-04-09T21:15:31",
                                 "name": "Metal.lsmat",
-                                "hash": "9a7f561fb1b48dffaf5941345ce8b59c",
+                                "hash": "d3b627406cae7d66a32571b4a1fdd34d",
                                 "children": ""
                             },
                             {
@@ -2196,16 +2196,16 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-09T21:10:13",
+                                "lastModified": "2020-04-09T21:15:31",
                                 "name": "Charcoal Metal.lsmat",
-                                "hash": "e69af57c95d6bc680d6179b9b6af2eaf",
+                                "hash": "1f44e0d9aec6d0e006ba25ed37dbb90a",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-09T21:07:54",
+                                "lastModified": "2020-04-09T21:14:37",
                                 "name": "Icon Black.png",
-                                "hash": "bc2a2a3ef942882804e557afa757afd1",
+                                "hash": "54d2565dcf49b44effb852f7095ccf6a",
                                 "children": ""
                             },
                             {
@@ -3623,7 +3623,7 @@
                         "fileId": "115",
                         "originalId": "116",
                         "publicId": "30",
-                        "source": "\/Users\/ejwessel\/Desktop\/Screen Shot 2020-04-09 at 9.07.49 PM.png",
+                        "source": "\/Users\/ejwessel\/Dev\/TerminatorLens\/Public\/Icon Black.png",
                         "additional": ""
                     }
                 ]
@@ -3631,13 +3631,8 @@
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "1586479375640665:115853",
-                        "path_list": [
-                            "Icon"
-                        ]
-                    }
+                "objects": [
+                    "1586479806960620:139922"
                 ]
             }
         },
