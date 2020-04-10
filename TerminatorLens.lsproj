@@ -3,7 +3,7 @@
     "document_id": "d7t60Lj2oHLY98A3kzyJ",
     "original_document_id": "d7t60Lj2oHLY98A3kzyJ",
     "version": "23",
-    "lastChanged": "1586476576908",
+    "lastChanged": "1586479022342",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -29,6 +29,19 @@
         "ResourceUiComponent": {
             "collapsedList": [
                 [
+                    [
+                        "Charcoal Metal"
+                    ],
+                    [
+                        "Metal"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "iridescence_combined"
+                    ],
                     [
                         "echopark_diff"
                     ],
@@ -480,7 +493,13 @@
         },
         "SceneTreeUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1586474988043802:5229",
+                    "1586474988055458:5511",
+                    "1586474988097058:6079",
+                    "1586474988129432:6445",
+                    "1586478315062515:92467"
+                ]
             ]
         },
         "MetaInfoUIComponent": {
@@ -526,8 +545,8 @@
             ]
         },
         "UiComponent": {
-            "active_graph_material": "-1:-1",
-            "active_graph_pass": "-1"
+            "active_graph_material": "1586476889306332:45553",
+            "active_graph_pass": "0"
         }
     },
     "model": {
@@ -1252,6 +1271,30 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "96",
+                    "uid": "1586476889306332:45553",
+                    "name": "Files\/File103",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "97",
+                    "uid": "1586476889475320:45603",
+                    "name": "Files\/File105.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "98",
+                    "uid": "1586477610753545:66645",
+                    "name": "Files\/File107",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -1332,7 +1375,8 @@
                 "54": "1586474988154235:6688",
                 "55": "1586474996709245:10693",
                 "56": "1586474996709423:10694",
-                "57": "1586474996712655:10714"
+                "57": "1586474996712655:10714",
+                "58": "1586478315062515:92467"
             }
         },
         "LayerComponent": {
@@ -1762,6 +1806,30 @@
                 {
                     "k": "102",
                     "v": "Files\/File102.oprfb"
+                },
+                {
+                    "k": "103",
+                    "v": "Files\/File103"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.lsmat"
+                },
+                {
+                    "k": "105",
+                    "v": "Files\/File105.png"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.png"
+                },
+                {
+                    "k": "107",
+                    "v": "Files\/File107"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108.lsmat"
                 }
             ]
         },
@@ -1837,6 +1905,22 @@
                     {
                         "k": "16",
                         "v": "..\/AdditionalFiles\/terminatorhead\/Materials\/_Redwood_.lsmat"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "22",
+                        "v": "Textures\/iridescence_combined.png"
+                    },
+                    {
+                        "k": "23",
+                        "v": "Metal.lsmat"
+                    },
+                    {
+                        "k": "24",
+                        "v": "Charcoal Metal.lsmat"
                     }
                 ],
                 "hashes": [
@@ -1899,15 +1983,56 @@
                     {
                         "k": "16",
                         "v": "761eba4779ae3c628a3602084bd3e5c8"
+                    },
+                    {
+                        "k": "22",
+                        "v": "464f444dfcba88908c256dddc14e2779"
+                    },
+                    {
+                        "k": "23",
+                        "v": "c1cdfa26f84e809b51f39cf535e86b3e"
+                    },
+                    {
+                        "k": "24",
+                        "v": "a401cfd57a156d92c8abe4d2790ce28a"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-09T19:29:48",
+                        "lastModified": "2020-04-09T20:31:03",
                         "name": "Public",
-                        "hash": "a85b24b4271cf3c36553a9803582e06a",
+                        "hash": "a666f73233e859bc4c5451f5e4567c68",
                         "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-09T20:31:03",
+                                "name": "Metal.lsmat",
+                                "hash": "4bc7a2b0785ac190a403db3ee6227a86",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-09T20:01:29",
+                                "name": "Textures",
+                                "hash": "ed69ed08610aa420068b1c5df7d5c1ec",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-09T20:01:29",
+                                        "name": "iridescence_combined.png",
+                                        "hash": "464f444dfcba88908c256dddc14e2779",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-09T20:01:29",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
                             {
                                 "isFolder": "false",
                                 "lastModified": "2018-05-16T18:34:36",
@@ -1927,6 +2052,13 @@
                                 "lastModified": "2019-12-13T20:21:52",
                                 "name": "echopark_spec.png",
                                 "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-09T20:31:03",
+                                "name": "Charcoal Metal.lsmat",
+                                "hash": "9336f4c59e2788484d9b707930c1b9df",
                                 "children": ""
                             },
                             {
@@ -3233,12 +3365,75 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "21",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "iridescence_combined",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "97",
+                                "dependency": "0",
+                                "uid": "1586476889475320:45603",
+                                "fileId": "105",
+                                "originalId": "106",
+                                "publicId": "22",
+                                "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-QmSvCV\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Metal",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "96",
+                        "dependency": "0",
+                        "uid": "1586476889306332:45553",
+                        "fileId": "103",
+                        "originalId": "104",
+                        "publicId": "23",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Charcoal Metal",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "98",
+                        "dependency": "0",
+                        "uid": "1586477610753545:66645",
+                        "fileId": "107",
+                        "originalId": "108",
+                        "publicId": "24",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1586476889306332:45553",
+                        "path_list": [
+                            "Metal"
+                        ]
+                    }
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
@@ -3270,7 +3465,7 @@
                         "k": "1586474988043802:5229",
                         "v": {
                             "prefab": "1586474986261520:4482",
-                            "isActive": "true",
+                            "isActive": "false",
                             "mapping": [
                                 {
                                     "k": "1586474985952237:3401",
